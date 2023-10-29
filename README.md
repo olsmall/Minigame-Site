@@ -16,6 +16,6 @@ Upon creating a user account, the user's data will be added to the database. The
 Clicking on a game creates a session for the game where the temporary score will be held until it's passed to the database if it's a high score. 
 
 
-![Alt text]([Wireframe Images/Index - Home Page.png](https://github.com/olsmall/Minigame-Site/blob/b6e16dd5f2c2b7bf71be2b092babb47b49381723/Wireframe%20Images/Index%20-%20Home%20Page.png)https://github.com/olsmall/Minigame-Site/blob/b6e16dd5f2c2b7bf71be2b092babb47b49381723/Wireframe%20Images/Index%20-%20Home%20Page.png)
+![Alt text][index]
 
-![Alt text](Wireframe Images/Game Page.png)
+[index]: Wireframe Images/Index - Home Page.png
