@@ -16,6 +16,6 @@ Upon creating a user account, the user's data will be added to the database. The
 Clicking on a game creates a session for the game where the temporary score will be held until it's passed to the database if it's a high score. 
 
 
-![alt text](Wireframe Images/Index - Home Page.png)
+![Alt text](Wireframe Images/Index - Home Page.png)
 
-![alt text](Wireframe Images/Game Page.png)
+![Alt text](Wireframe Images/Game Page.png)
